@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taw25662
-- 👀 I’m interested in developing my skills with Python, specifically for work with AI
-- 🌱 I’m currently learning PyTorch
-- 💞️ I’m looking to collaborate on beginner level projects, using Python
+- 👀 I’m a beginning backend coder, with experience in Python, HTML, CSS, JavaScript, WordPress, etc. 
+- 🌱 I’m currently working to gain experience and improve my web dev skills
+- 💞️ I’m looking to collaborate on beginner level projects, using the coding languges mentioned above
 - 📫 The best way to reach me is to message me here
 
 <!---
