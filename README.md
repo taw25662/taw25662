@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @taw25662
-- 👀 I’m a beginning backend coder, with experience in Python, HTML, CSS, JavaScript, PHP, etc. 
-- 🌱 I’m currently working to gain experience and improve my web dev skills
-- 💞️ I’m looking to collaborate on beginner level projects, using the coding languges mentioned above
-- 📫 The best way to reach me is to message me here
+- 👋 Hi, I’m Trevor
+- 👀 I’m a front-end developer, with experience in HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind, and Python. 
+- 🌱 I’m currently developing various UI/UX designs.
+- 💞️ In my free time, I pursue bug bounty projects and web security.
+- 📫 The best way to reach me is to message me on my Twitter page or email me.
 
 <!---
 taw25662/taw25662 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
